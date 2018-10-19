@@ -3,7 +3,9 @@
 ## Author
 
 Volker Hilsenstein
+
 Developed at EBML Advanced Light Microscopy Facility
+
 
 ## About
 This is an interactive viewer for multilabelling images in HDF5 format. This is a specific structure in an hdf5-container developed for our multilabelling acquisition (Publication forthcoming), a protocol for automated stainging, imaging and bleaching on a microscope stage, allowing highly multiplexed imaging at confocal resolution.
