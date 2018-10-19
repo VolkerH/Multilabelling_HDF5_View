@@ -20,4 +20,6 @@ A port to PyQt5 and Python 3.6 is in progress.
 
 ## Sample HDF5 file 
 
-insert dropbox link here
+A sample multilabelling file is available here:
+
+https://www.dropbox.com/s/ygv4tsg0n936l7e/field--X02--ctrl1.hdf5?dl=0
