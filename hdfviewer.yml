@@ -1,0 +1,38 @@
+name: hdfviewer
+channels:
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - ca-certificates=2018.03.07=0
+  - certifi=2018.10.15=py27_0
+  - h5py=2.8.0=py27h5f1a774_2
+  - hdf5=1.10.2=h530792d_2
+  - icc_rt=2017.0.4=h97af966_0
+  - intel-openmp=2019.0=118
+  - jpeg=8d=vc9_2
+  - libpng=1.6.34=h325896a_0
+  - libtiff=4.0.6=vc9_2
+  - linecache2=1.0.0=py27_0
+  - mkl=2019.0=118
+  - mkl_fft=1.0.6=py27hac4a418_0
+  - numpy=1.15.2=py27hbe4291b_1
+  - numpy-base=1.15.2=py27h2753ae9_1
+  - openssl=1.0.2p=h0c8e037_0
+  - pip=10.0.1=py27_0
+  - pyqt=4.11.4=py27_7
+  - python=2.7.15=he216670_0
+  - qt=4.8.7=vc9_9
+  - setuptools=40.4.3=py27_0
+  - sip=4.18=py27_0
+  - six=1.11.0=py27_1
+  - traceback2=1.4.0=py27_0
+  - unittest2=1.1.0=py27_0
+  - vc=9=h7299396_1
+  - vs2008_runtime=9.00.30729.1=hfaea7d5_1
+  - wheel=0.32.1=py27_0
+  - wincertstore=0.2=py27hf04cefb_0
+  - zlib=1.2.11=hbc2faf4_2
+  - pip:
+    - qimage2ndarray==1.7
+prefix: C:\Users\Volker\Anaconda3\envs\hdfviewer
+
