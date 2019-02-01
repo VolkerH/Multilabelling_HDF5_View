@@ -299,9 +299,8 @@ class AntibodySelectionDlg(QDialog):
                print sender.getABdisplaySettings()
 
 class DropZoneDlg(QDialog):
-    def __init__(self, irgendwas = "nichts", parent=None):
+    def __init__(self, parent=None):
         super(DropZoneDlg, self).__init__(parent)
-        print "initializing drop zone dialog ", irgendwas
         self.forms =[]
         self.setWindowTitle("Drop HDF Files below")
         # Filedrop Widget
