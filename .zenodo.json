@@ -1,0 +1,26 @@
+{
+    "description": "Interactive viewer for multilabelling images in HDF5 format implemented in PyQT", 
+    "license": "other-open", 
+    "title": "Multilabelling_HDF5_View, a viewer for highly multiplexed microscopy images.", 
+    "version": "alpha_release", 
+    "upload_type": "software", 
+    "publication_date": "2019-08-02", 
+    "creators": [
+        {
+            "name": "Volker Hilsenstein"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/VolkerH/Multilabelling_HDF5_View/tree/alpha_release", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3358308", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
