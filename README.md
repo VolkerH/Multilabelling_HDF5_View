@@ -39,6 +39,18 @@ A sample multilabelling file is available here:
 
 https://www.dropbox.com/s/ygv4tsg0n936l7e/field--X02--ctrl1.hdf5?dl=0
 
+
+## Usage
+
+Activate your conda environment and start the viewer as `python ML_viewer.py`.
+Drag the example image onto the dropzone dialog.
+
+### Keyboard shortcuts
+
+* `+` zoom in
+* `-` zoom out
+* `=` set default scale
+
 ## HDF5 file structure
 
 The following screenshot from HDF5View shows the structure of the HDF5 files used
