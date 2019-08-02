@@ -1,5 +1,11 @@
 # Multilabelling_HDF5_View
 
+
+
+[![DOI](https://zenodo.org/badge/153704601.svg)](https://zenodo.org/badge/latestdoi/153704601)
+
+
+
 ## Author
 
 Volker Hilsenstein
@@ -52,4 +58,4 @@ respetive antibody. There are also pre-computed Z-projections in the structure b
 ## Citation and usage
 
 Feel free to use MLHDF5Viewer in your resarch but please cite the work if you do.
-There is no publication to cite (yet) but you can cite the following Zenodo doi (TODO).
+There is no publication to cite (yet) but you can cite the [Zenodo doi](https://zenodo.org/badge/latestdoi/153704601).
