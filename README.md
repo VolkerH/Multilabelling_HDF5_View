@@ -69,5 +69,7 @@ respetive antibody. There are also pre-computed Z-projections in the structure b
 
 ## Citation and usage
 
-Feel free to use MLHDF5Viewer in your resarch but please cite the work if you do.
-There is no publication to cite (yet) but you can cite the [Zenodo doi](https://zenodo.org/badge/latestdoi/153704601).
+Feel free to use MLHDF5Viewer in your resarch but please cite the work if you do. 
+
+* To date there is no journal publication to cite (yet). However, the software has been presented as part of a [conference poster and lightning talks at VIZBI 2016](http://vizbi.org/Posters/2016/D10): **Multilabel imaging for visualization of many proteins in the same cell.** _Volker Hilsenstein, Sabine Reither, Beate Neumann, Christian Tischer, Rainer Pepperkok (EMBL Advanced Light Microscopy Facility, Heidelberg, Germany)_, Visualizing Biological Data (VIZBI), Mar 9-11 2016, Heidelberg, Germany. 
+* This Github repo is archived at [Zenodo with a doi](https://zenodo.org/badge/latestdoi/153704601).
