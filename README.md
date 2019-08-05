@@ -56,7 +56,7 @@ Drag the example image onto the dropzone dialog.
 The following screenshot from HDF5View shows the structure of the HDF5 files used
 for the Multilabelling Viewer
 
-![](./Demo/hdf5_structure.png)
+<img src="./Demo/hdf5_structure.png" height="400">
 
 This is not an exact specification (look in the sample file) but should be a starting point if you want to create a suitable HDF5 file from your own multiplexed images:
 
@@ -73,3 +73,10 @@ Feel free to use MLHDF5Viewer in your resarch but please cite the work if you do
 
 * To date there is no journal publication to cite (yet). However, the software has been presented as part of a [conference poster and lightning talks at VIZBI 2016](http://vizbi.org/Posters/2016/D10): **Multilabel imaging for visualization of many proteins in the same cell.** _Volker Hilsenstein, Sabine Reither, Beate Neumann, Christian Tischer, Rainer Pepperkok (EMBL Advanced Light Microscopy Facility, Heidelberg, Germany)_, Visualizing Biological Data (VIZBI), Mar 9-11 2016, Heidelberg, Germany. 
 * This Github repo is archived at [Zenodo with a doi](https://zenodo.org/badge/latestdoi/153704601).
+
+
+## Poster
+
+The VIZBI 2016 Poster is reproduced below:
+
+[<img src="./Demo/Poster_VIZBI2016.PNG" height="400">](./Demo/Poster_VIZBI2016.PNG)
